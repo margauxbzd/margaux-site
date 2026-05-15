@@ -1,0 +1,4 @@
+# Redirections HTTPS/SEO
+# Force HTTPS et redirection www → domaine principal (à adapter selon choix domaine)
+
+/index.html              /                    301
